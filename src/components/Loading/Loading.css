@@ -1,0 +1,14 @@
+.loading{
+ font-size: 2rem;
+ margin: 200px auto 0;
+ animation: spin 2.5s linear infinite;
+ width: 100%;
+}
+@keyframes spin {
+ from{
+  rotate: 0;
+ }
+ to{
+  rotate: 360deg;
+ }
+}

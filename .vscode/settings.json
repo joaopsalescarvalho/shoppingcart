@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 1,
+
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    }
+}
